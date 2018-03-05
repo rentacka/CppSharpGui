@@ -1,18 +1,5 @@
-１．swigwin-3.0.12 をDLしてSwigForGui\bin\Debugにswigwin-3.0.12\swig.exeとほかのファイルと一緒にインストールしてください。
+OK!
 
-２．QsharpCpp.slnをビルドします。
+Exe is CppSharpGui\CppSharpGui\bin\Debug!
 
-３．実行します。
-
-Qtで変換するにはCsprojを含んだフォルダをドラッグ＆ドロップしてください。
-C#やC++で変換するにはそのファイルをドラッグ＆ドロップしてください。
-
-
-1. DL swigwin - 3.0.12 and install swigwin - 3.0.12 \ swig.exe and other files in SwigForGui \ bin \ Debug.
-
-2. Build QsharpCpp.sln.
-
-3. I will do it.
-
-To convert with Qt please drag and drop the folder containing Csproj.
-To convert with C # or C ++, drag and drop the file.
+OK!OK!
