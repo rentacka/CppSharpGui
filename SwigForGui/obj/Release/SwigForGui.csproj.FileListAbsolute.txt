@@ -1,0 +1,9 @@
+E:\cs2cpp-master(C#ToC++\SwigForGui\bin\Release\SwigForGui.exe.config
+E:\cs2cpp-master(C#ToC++\SwigForGui\bin\Release\SwigForGui.exe
+E:\cs2cpp-master(C#ToC++\SwigForGui\bin\Release\SwigForGui.pdb
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Release\SwigForGui.csprojResolveAssemblyReference.cache
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Release\SwigForGui.Form1.resources
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Release\SwigForGui.Properties.Resources.resources
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Release\SwigForGui.csproj.GenerateResource.Cache
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Release\SwigForGui.exe
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Release\SwigForGui.pdb

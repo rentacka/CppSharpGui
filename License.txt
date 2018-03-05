@@ -1,0 +1,14 @@
+CoreLib・・・CoreRT　System.Private.CoreLib　MIT
+
+mscorelib・・・afrog33k/csnative
+
+classlib・・・pquiring/QSharp
+
+cs2cpp・・・ASDAlexander77/cs2cpp　Cs2Cpp is licensed under the MIT license.
+
+
+QsharpCppGuiはLGPLです。
+
+
+
+QsharpCppGui is LGPL.

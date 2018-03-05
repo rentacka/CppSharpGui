@@ -1,0 +1,10 @@
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\obj\Debug\CppSharp_Builder.MainForm.resources
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\obj\Debug\CppSharp0817.Properties.Resources.resources
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\obj\Debug\CppSharp0817.csproj.GenerateResource.Cache
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\bin\Debug\CppSharp0817.exe.config
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\bin\Debug\CppSharp0817.exe
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\bin\Debug\CppSharp0817.pdb
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\obj\Debug\CppSharp0817.exe
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\obj\Debug\CppSharp0817.pdb
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\bin\Debug\CppSharp.CppParser.dll
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817\obj\Debug\CppSharp0817.csprojResolveAssemblyReference.cache

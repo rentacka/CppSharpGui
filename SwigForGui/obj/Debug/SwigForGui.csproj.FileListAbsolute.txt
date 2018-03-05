@@ -1,0 +1,18 @@
+E:\cs2cpp-master(C#ToC++\SwigForGui\bin\Debug\SwigForGui.exe.config
+E:\cs2cpp-master(C#ToC++\SwigForGui\bin\Debug\SwigForGui.exe
+E:\cs2cpp-master(C#ToC++\SwigForGui\bin\Debug\SwigForGui.pdb
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Debug\SwigForGui.csprojResolveAssemblyReference.cache
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Debug\SwigForGui.Form1.resources
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Debug\SwigForGui.Properties.Resources.resources
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Debug\SwigForGui.csproj.GenerateResource.Cache
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Debug\SwigForGui.exe
+E:\cs2cpp-master(C#ToC++\SwigForGui\obj\Debug\SwigForGui.pdb
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\bin\Debug\SwigForGui.exe.config
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\bin\Debug\SwigForGui.exe
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\bin\Debug\SwigForGui.pdb
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\obj\Debug\SwigForGui.Form1.resources
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\obj\Debug\SwigForGui.Properties.Resources.resources
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\obj\Debug\SwigForGui.csproj.GenerateResource.Cache
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\obj\Debug\SwigForGui.csproj.CoreCompileInputs.cache
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\obj\Debug\SwigForGui.exe
+E:\Mydocument\Visual Studio 2017\Projects\Csharp2CppGui\SwigForGui\obj\Debug\SwigForGui.pdb

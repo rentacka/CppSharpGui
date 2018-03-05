@@ -1,0 +1,9 @@
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\bin\Debug\CppSharp0817.exe.config
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\obj\Debug\CppSharp0817.exe
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\obj\Debug\CppSharp0817.pdb
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\bin\Debug\CppSharp.CppParser.dll
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\bin\Debug\CppSharp0817.exe
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\bin\Debug\CppSharp0817.pdb
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\obj\Debug\CppSharp_Builder.MainForm.resources
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\obj\Debug\CppSharp0817.Properties.Resources.resources
+E:\Mydocument\Visual Studio 2017\Projects\CppSharp2017\CppSharp0817Test\obj\Debug\CppSharp0817test.csproj.GenerateResource.Cache
