@@ -58,9 +58,9 @@
             this.Headerlabel.AutoSize = true;
             this.Headerlabel.Location = new System.Drawing.Point(15, 9);
             this.Headerlabel.Name = "Headerlabel";
-            this.Headerlabel.Size = new System.Drawing.Size(113, 12);
+            this.Headerlabel.Size = new System.Drawing.Size(87, 12);
             this.Headerlabel.TabIndex = 5;
-            this.Headerlabel.Text = "Drag＆Drop:C++＆C#";
+            this.Headerlabel.Text = "Drag＆Drop:C++";
             // 
             // FileCountlabel
             // 
@@ -178,7 +178,7 @@
             this.Controls.Add(this.RunButton);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "C++ Mutual conversion C#";
+            this.Text = "CppSharpGui";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.DragDrop += new System.Windows.Forms.DragEventHandler(this.MainForm_DragDrop);
             this.DragEnter += new System.Windows.Forms.DragEventHandler(this.MainForm_DragEnter);
